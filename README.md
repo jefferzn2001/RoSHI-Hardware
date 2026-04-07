@@ -2,6 +2,8 @@
 
 ![RoSHI IMU tracker — exploded view](Images/IMUARIA.png)
 
+**Hardware overview:** Exploded stack: top lid with a **fiducial marker** (for vision / calibration), main **PCB** (MCU, USB, power switch), **LiPo** cell, and base shell with a **curved inner surface** for strapping to a limb or similar cylinder.
+
 Wireless IMU motion tracking for RoSHI: body-worn trackers stream orientation and acceleration to a host over **ESP-NOW**, with **Python** utilities for logging and visualization. Enclosure parts are provided as **STEP** files for 3D printing.
 
 ## Contents
