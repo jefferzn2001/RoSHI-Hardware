@@ -1,6 +1,6 @@
 # RoSHI Hardware
 
-Hardware resources for the paper **RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild** (IROS 2026).
+Hardware resources for the paper **RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**.
 
 <p align="center">
   <a href="https://roshi-mocap.github.io/"><img src="https://img.shields.io/badge/🌐_Project_Page-roshi--mocap.github.io-blue?style=for-the-badge" alt="Project Page"></a>
