@@ -1,8 +1,16 @@
 # RoSHI Hardware
 
+Hardware resources for the paper **RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild** (IROS 2026).
+
+<p align="center">
+  <a href="https://roshi-mocap.github.io/"><img src="https://img.shields.io/badge/🌐_Project_Page-roshi--mocap.github.io-blue?style=for-the-badge" alt="Project Page"></a>
+  &nbsp;
+  <a href="https://roshi-mocap.github.io/documentation/hardware/index.html"><img src="https://img.shields.io/badge/📖_Hardware_Docs-Setup_Instructions-green?style=for-the-badge" alt="Hardware Documentation"></a>
+</p>
+
 ![RoSHI IMU tracker — exploded view](Images/IMUARIA.png)
 
-This repository contains the **3D-printed parts** for the RoSHI paper, along with firmware and helper scripts in the layout below.
+This repository contains the **3D-printed parts**, firmware, and helper scripts for building the nine wireless IMU trackers used in RoSHI.
 
 ## Repository layout
 
